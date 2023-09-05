@@ -1,0 +1,44 @@
+.epis{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.container__epis{
+    max-width: 1330px;
+    padding: 0 15px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+.cock{ 
+    align-items: center;
+    justify-content: space-between;
+    font-family: "DM Sans", sans-serif;
+    font-size: 64px;
+    height: 350px;
+
+}
+.img__ep{
+    width: 413px;
+    height: 413px;
+    margin-right: 20px;
+    padding: 12px;
+    border-radius: 24px;
+}
+.ep__card{
+    padding: 12px;
+    display: flex;
+    background-color: black;
+    border-radius: 12px;
+}
+.btn__card{
+    border-radius: 20px;
+    padding: 5px;
+    justify-content: space-between;
+    height: 50px;
+    width: 200px;
+    background-color: blue;
+    bottom: 140px;
+}
+.container__card{
+    display: inline-block;
+}
+

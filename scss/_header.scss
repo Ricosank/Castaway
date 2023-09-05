@@ -1,0 +1,33 @@
+.header{
+    padding: 40px 0;
+}
+.container{
+    max-width: 1330px;
+    padding: 0 15px;
+    margin: 0 auto;
+
+}
+.header__container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav__list{
+    display: flex;
+    align-items: center;
+}
+.nav__item {
+    margin-right: 40px;
+  }
+.list__reset{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.nav__link{
+    font-size: 18px;
+    line-height: 27px;
+}
+a{
+    color: white;
+}

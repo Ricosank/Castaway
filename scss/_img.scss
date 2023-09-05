@@ -1,0 +1,23 @@
+.main__container{
+    display: flex;
+    align-items: flex-end;
+}
+.main__img{
+    position: relative;
+    width: 50%;
+}
+.main__img img{
+    border-radius: 13px;
+}
+.main__inf{
+    padding-left: 60px;
+    padding-bottom: 150px;
+}
+.text{
+    margin: 0;
+    margin-bottom: 70px;
+    font-weight: 400;
+    font-size: 70px;
+    line-height: 88px;
+    letter-spacing: 3.2px;
+}

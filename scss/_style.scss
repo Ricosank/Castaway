@@ -1,0 +1,12 @@
+:root {
+    --body-bg: #191919;
+    --main-text-color: #fff;
+    --current: #118ad8;
+    --card-bg: #000;
+    --text-color: rgba(255, 255, 255, 0.7);
+ }
+body{
+    font-family: 'DM Sans', sans-serif;
+    color: var(--main-text-color);
+    background: var(--body-bg);
+}
